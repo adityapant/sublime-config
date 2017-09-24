@@ -1,13 +1,17 @@
 [
-	{ 
-		"keys": ["ctrl+alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}
-	},
-	
-	{
-		"keys": ["j", "k"], "command": "exit_insert_mode", "context":
-		[
+    { 
+        "keys": ["ctrl+alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}
+    },
+    
+    {
+        "keys": ["j", "k"], "command": "exit_insert_mode", "context":
+        [
                 { "key": "setting.command_mode", "operand": false },
                 { "key": "setting.is_widget", "operand": false }
         ]
-	}
+    },
+
+    { 
+        "keys": ["ctrl+alt+r"], "command": "reindent"
+    }
 ]
