@@ -1,5 +1,4 @@
 {
-	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -12,7 +11,6 @@
 		"Highlight",
 		"Markdown Extended",
 		"Monokai Extended",
-		"Package Control",
 		"QuickSimplenote",
 		"SideBarEnhancements",
 		"Theme - Soda",
