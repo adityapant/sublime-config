@@ -1,0 +1,14 @@
+{
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Six",
+		"Vintage",
+		"Vintageous"
+	],
+	"neovintageous_build_version": 11100,
+	"theme": "Soda Dark 3.sublime-theme",
+	"vintageous_use_ctrl_keys": null,
+	"vintageous_use_super_keys": null
+}

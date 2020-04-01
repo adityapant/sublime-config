@@ -1,0 +1,22 @@
+[
+	{ 
+	    "keys"    : ["f5"], 
+	    "command" : "refresh_folder_list" 
+	},
+	{
+	    "keys": ["ctrl+alt+w"],
+	    "command": "toggle_setting",
+	    "args": {
+	        "setting": "word_wrap"
+    	}
+    },
+    { 
+        "keys": ["super+ctrl+shift+s", "super+ctrl+shift+s"], "command": "show_quick_simplenote_notes"
+    },
+    { 
+        "keys": ["super+ctrl+shift+s", "super+ctrl+shift+n"], "command": "create_quick_simplenote_note"
+    },
+    { 
+        "keys": ["super+ctrl+shift+s", "super+ctrl+shift+d"], "command": "delete_quick_simplenote_note"
+    }
+]
