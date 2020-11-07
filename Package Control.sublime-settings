@@ -5,16 +5,17 @@
 	],
 	"installed_packages":
 	[
-		"Base Encoder",
+		"FileDiffs",
+		"LSP",
 		"MarkdownEditing",
+		"molokai",
 		"Monokai Extended",
 		"NeoVintageous",
 		"Origami",
 		"Package Control",
 		"Pretty JSON",
-		"QuickSimplenote",
 		"SideBarEnhancements",
-		"StringUtilities",
-		"Theme - Soda"
-	]
+		"Theme - Soda",
+		"Theme - Spacegray"
+	],
 }

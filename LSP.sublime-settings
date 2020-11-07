@@ -1,0 +1,14 @@
+{
+	"clients":
+	{
+		"clangd":
+		{
+			"command":
+			[
+				"ccls"
+			],
+			"enabled": true
+		}
+	},
+	"auto_show_diagnostics_panel": "never",
+}
